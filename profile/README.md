@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/checkable-ai/.github/main/profile/img/hero-dark.svg">
-    <img src="https://raw.githubusercontent.com/checkable-ai/.github/main/profile/img/hero-light.svg" width="100%" alt="Checkable AI. Trust you can trace. AI checks it. Our team signs it off. Three steps: the vendor's words, our reading, signed off.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/checkable-ai/.github/main/profile/img/hero-dark.jpg">
+    <img src="https://raw.githubusercontent.com/checkable-ai/.github/main/profile/img/hero-light.jpg" width="100%" alt="Checkable AI. Trust you can trace. AI checks it. Our team signs it off. A rust thread runs through three vendor documents to a green check mark.">
   </picture>
 </p>
 
